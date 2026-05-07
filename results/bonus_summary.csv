@@ -1,0 +1,2 @@
+variant,rank,alpha,target_scope,use_dora,trainable_params,train_time_min,peak_vram_gb,eval_loss,eval_perplexity,notes
+r16_all_layers,16.0,32.0,all_layers,False,29933568,6.3322967449824015,10.00345088,1.4532673358917236,4.277066322443232,all_layers

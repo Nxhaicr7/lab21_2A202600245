@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab artifacts and local secrets
+adapters/
+outputs/
+*.safetensors
+hf_token.txt
+secrets.txt
+
+# Keep submission results tracked, but ignore accidental archives
+*.zip
